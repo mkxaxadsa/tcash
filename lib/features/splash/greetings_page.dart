@@ -5,6 +5,8 @@ import '../../core/config/app_colors.dart';
 import '../../core/utils.dart';
 import '../../core/widgets/buttons/primary_button.dart';
 
+String x3 = '';
+
 class GreetingsPage extends StatelessWidget {
   const GreetingsPage({super.key});
 
